@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center"> Welcome To My GitHub Profile </h1>
+<div align="center">
+ 
+ 🏫 I’m currently studying Computer Science.
+ 
+ ✏️ You can contact me using the links below.
 
-<!--
-**RaduCruceat/RaduCruceat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ </div>
+ <div align="center"> 
+  <a href="mailto:radu.cruceat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/radu-cruceat-6868441a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+<table style="border-collapse: collapse;" align="center">
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,python,javascript,typescript" alt="Image 1">
+    </td>
+    <td rowspan="2">
+      <img width="323" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaduCruceat&langs_count=8&hide_progress=true&layout=compact&theme=codeSTACKr&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Image 3">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=github,mysql,firebase,angular,react,html,css" alt="Image 2">
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
