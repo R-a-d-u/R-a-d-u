@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<h2 align="center"> Languages-Frameworks-Tools </h2>
+<h1 align="center"> Languages-Frameworks-Tools </h1>
 <br/>
 <table style="border-collapse: collapse;" align="center">
   <tr>
