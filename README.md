@@ -20,7 +20,7 @@
   <tr>
     <td>
      | Python3 | C | JS | Solidity | Solidity | Solidity | Solidity | Solidity |
-|----------|----------|----------|-----|
+|----------|----------|----------|----------|----------|----------|----------|-----|
       <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,python,javascript,typescript" alt="Image 1">
     </td>
     <td rowspan="2">
