@@ -27,7 +27,12 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=github,mysql,firebase,angular,react,html,css" alt="Image 2" >
+      <img src="https://skillicons.dev/icons?i=github,mysql,firebase,bootstrap,angular,react,html,css" alt="Image 2" >
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=bootstrap,gradle,vue,vite,pinia,linux,nodejs" alt="Image 3" >
     </td>
   </tr>
 </table>
