@@ -27,12 +27,12 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=vite,github,angular,react,bootstrap,html,css" alt="Image 2" >
+      <img src="https://skillicons.dev/icons?i=github,vite,angular,react,bootstrap,html,css" alt="Image 2" >
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux,mysql,firebase,gradle,vue,nodejs,pinia" alt="Image 3" >
+      <img src="https://skillicons.dev/icons?i=linux,mysql,gradle,firebase,vue,nodejs,pinia" alt="Image 3" >
     </td>
   </tr>
 </table>
