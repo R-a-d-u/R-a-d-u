@@ -16,7 +16,7 @@
 </div>
 
 <h1 align="center"> Languages-Frameworks-Tools </h1>
-<table style="border-collapse: collapse;" align="center">
+<table style="border-collapse: collapse;" align="center" >
   <tr>
     <td>
         <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,python,javascript,typescript" alt="Image 1" >
