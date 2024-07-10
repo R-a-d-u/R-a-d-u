@@ -1,3 +1,5 @@
+<h1 align="center"> Welcome To My GitHub Profile </h1>
+<div align="center"> 🏫 I’m currently studying Computer Science. </div>
 <h1 align="center"> Languages-Frameworks-Tools </h1>
 <table style="border-collapse: collapse;" align="center" >
   <tr>
