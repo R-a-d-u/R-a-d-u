@@ -5,7 +5,7 @@
         <img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,javascript,typescript" alt="Image 1" >
     </td>
     <td rowspan="3">
-      <img width="324" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaduCruceat&langs_count=12&hide_progress=false&layout=compact&theme=codeSTACKr&border_radius=10&size_weight=0.5&hide=c++&exclude_repo=Submarine3DModel&count_weight=0.5&exclude_repo=github-readme-stats" alt="Image 3" >
+      <img width="324" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaduCruceat&langs_count=12&hide_progress=false&layout=compact&theme=codeSTACKr&border_radius=10&size_weight=0.5&hide=c&exclude_repo=Submarine3DModel&count_weight=0.5&exclude_repo=github-readme-stats" alt="Image 3" >
     </td>
   </tr>
   <tr>
