@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=github,vite,angular,react,bootstrap,html,css" alt="Image 2" >
+      <img src="https://skillicons.dev/icons?i=vite,angular,react,svelte,bootstrap,html,css" alt="Image 2" >
     </td>
   </tr>
   <tr>
